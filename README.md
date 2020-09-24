@@ -1,10 +1,8 @@
 # Quote_Generator
 
-# Drone Controller
-
 ## Description
 
-A simple project utilising the [Forismatic ](https://forismatic.com/en/) api to render a random quote with the ability to tweet and refresh to an new quote.
+A simple project utilising the [Forismatic ](https://forismatic.com/en/) api to render a random quote with the ability to tweet and refresh to a new quote.
 
 ## Table of Contents
 
