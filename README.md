@@ -15,7 +15,7 @@ A simple project utilising the [Forismatic ](https://forismatic.com/en/) api to 
 
 ## Screenshot
 
-![Quote Generator screenshot](https://github.com/DC-Cunningham/quote-generator/blob/master/assetsSS_QuoteGenerator.png)
+![Quote Generator screenshot](https://github.com/DC-Cunningham/Quote_Generator/blob/master/assets/SS_QuoteGenerator.png)
 
 ## Installation
 
