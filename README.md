@@ -23,7 +23,11 @@ The application has been deployed [here](https://dc-cunningham.github.io/Quote_G
 
 ## Usage
 
-On loading a quote is rendered by DOm manipulation. The two buttons allow for the current quote to be shared via the Twitter share this function and for a new quote to be fetched.
+On loading of the page a quote and author is rendered by DOM manipulation.
+
+The first buttons allows for the current quote to be shared via the Twitter [Web Intent URL](https://developer.twitter.com/en/docs/twitter-for-websites/tweet-button/guides/web-intent) function.
+
+The second button allows for a new quote to be fetched.
 
 ## Future Plans and Known Bugs
 
